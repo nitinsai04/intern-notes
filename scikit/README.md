@@ -7,4 +7,3 @@ Includes:
 - Confidence scoring
 - Sample predictions
 
-More improvements and AWS integration coming soon.
